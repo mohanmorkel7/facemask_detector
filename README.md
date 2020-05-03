@@ -66,6 +66,7 @@ python tensorflow_infer.py  --img-path /path/to/your/img
 **Attention，for caffe's inference ，we use permute layer，so that we should use [caffe-ssd](https://github.com/weiliu89/caffe/tree/ssd)**，you can use opencv-dnn to do the inference.
 ## Appendix
 ### Feedback
-If you use wechat, you can follow us.
+
+if you have query kindly, subscribe our channel here link given below
 https://www.youtube.com/watch?v=wC_VoftmXOA
 
