@@ -69,27 +69,3 @@ python tensorflow_infer.py  --img-path /path/to/your/img
 If you use wechat, you can follow us.
 https://www.youtube.com/watch?v=wC_VoftmXOA
 
-![](img/wx.png)
-
-
-
-### Model structure
-
-We merge the BN to Conv layers in order to accelerate the inference speed.
-
-![](img/face_mask_detection.caffemodel.png)
-
-### Testset PR curve
-
-
-![](img/pr_curve.png)
-
-
-![](/img/pr_curve.png)
-
-
-### Our demo page
-
-[aizoo.com face mask detection demo](https://demo.aizoo.com/face-mask-detection.html)
-
-![](img/facemask.gif)
